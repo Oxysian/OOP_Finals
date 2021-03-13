@@ -61,6 +61,7 @@ static Scanner s = new Scanner(System.in);
            while(true){
             switch(menu()){
                 case 1:
+                    System.out.println("Hihi");
                     break;
                 case 2:
                     break;
